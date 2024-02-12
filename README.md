@@ -25,6 +25,20 @@
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-000?&style=for-the-badge&logo=tailwindcss)
 ![docker](https://img.shields.io/badge/-docker-000?&style=for-the-badge&logo=docker)
 
+
+### Tools :hammer_and_pick:
+<p>
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku logo"/>
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify logo"/>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo"/>
+    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server logo"/>
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT logo"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub logo"/>
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop logo"/>
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator logo"/>
+    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere logo"/>
+</p>
+
 ### My Stats 🌱
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cwajeeh)](https://git.io/streak-stats)
