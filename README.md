@@ -25,6 +25,12 @@
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-000?&style=for-the-badge&logo=tailwindcss)
 ![docker](https://img.shields.io/badge/-docker-000?&style=for-the-badge&logo=docker)
 
+### My Stats 🌱
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cwajeeh)](https://git.io/streak-stats)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=cwajeeh&margin-w=4&column=7)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cwajeeh&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <h2>Contact Me</h2>
